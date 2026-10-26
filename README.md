@@ -17,10 +17,7 @@ Inspired by the legacy XML library [samyak2403/SlidingButton](https://github.com
 
 <p align="center">
   <img src="sample/1.gif" alt="SlideToConfirmButton Demo Preview" width="320" style="max-height:640px; border-radius: 16px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" />
-</p>
-<p align="center">
-  <em>✨ Interactive Material 3 Expressive Showcase (sample/1.gif)</em>
-</p>
+
 
 ---
 
