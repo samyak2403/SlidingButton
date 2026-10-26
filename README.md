@@ -13,6 +13,16 @@ Inspired by the legacy XML library [samyak2403/SlidingButton](https://github.com
 
 ---
 
+## 📱 Sample Demo Video
+
+<p align="center">
+  <video src="sample/1.webm" controls="controls" muted="muted" width="340" style="max-height:640px; border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);"></video>
+  <br>
+  <em>▶️ Direct preview link: <a href="sample/1.webm"><strong>sample/1.webm</strong></a></em>
+</p>
+
+---
+
 ## 🌟 Why SlideToConfirmButton?
 
 - 🚀 **Built on Compose Foundation**: Powered by `AnchoredDraggableState` and `Modifier.anchoredDraggable()`. No deprecated `Swipeable` or fragile custom touch arithmetic.
